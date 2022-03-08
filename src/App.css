@@ -1,0 +1,20 @@
+
+select {
+  border: solid;
+  border-width: 1px;
+  border-color: #cccccc;
+  border-radius: 5px;
+  padding: 1ex;
+  margin-top: 1ex;
+  margin-left: 1ex;
+  margin-right: 1em;
+}
+
+button {
+  border: solid;
+  border-width: 1px;
+  border-color: #cccccc;
+  border-radius: 10px;
+  padding: 2em;
+  margin-right: 2em;
+}
